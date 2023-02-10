@@ -70,11 +70,10 @@ def main():
 
 
     # Main page ====================
-    st.image("DATA_vis.png",width=500)
+    st.image("DATA_vis.png",width=400)
     st.subheader("Multi-dimensional Data Visualizer")
     st.markdown("""
-    A simple tool to visualize data points or measurements of vector functions over a multi-dimensional space.
-    It is made particularly for visualizing objective function samples for black-box optimization problems.
+    A simple tool to visualize samples of vector functions over a multi-dimensional space.
     """
     )
     st.markdown("Made by Neha Karanjkar [(Webpage)](https://nehakaranjkar.github.io/)")
