@@ -4,3 +4,6 @@
 A simple tool to visualize samples of a vector function over a multi-dimensional space.
 
 Visit the app here:  [https://datavis.streamlit.app/]
+
+
+Authors: Neha Karanjkar
